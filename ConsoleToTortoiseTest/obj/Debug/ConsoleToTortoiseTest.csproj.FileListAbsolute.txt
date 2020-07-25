@@ -1,0 +1,11 @@
+C:\Users\vddungenpeter\source\repos\ConsoleToTortoiseTest\ConsoleToTortoiseTest\bin\Debug\ConsoleToTortoiseTest.exe.config
+C:\Users\vddungenpeter\source\repos\ConsoleToTortoiseTest\ConsoleToTortoiseTest\bin\Debug\ConsoleToTortoiseTest.exe
+C:\Users\vddungenpeter\source\repos\ConsoleToTortoiseTest\ConsoleToTortoiseTest\bin\Debug\ConsoleToTortoiseTest.pdb
+C:\Users\vddungenpeter\source\repos\ConsoleToTortoiseTest\ConsoleToTortoiseTest\bin\Debug\Mercurial.Net.dll
+C:\Users\vddungenpeter\source\repos\ConsoleToTortoiseTest\ConsoleToTortoiseTest\bin\Debug\Mercurial.Net.xml
+C:\Users\vddungenpeter\source\repos\ConsoleToTortoiseTest\ConsoleToTortoiseTest\obj\Debug\ConsoleToTortoiseTest.csprojAssemblyReference.cache
+C:\Users\vddungenpeter\source\repos\ConsoleToTortoiseTest\ConsoleToTortoiseTest\obj\Debug\ConsoleToTortoiseTest.csproj.CoreCompileInputs.cache
+C:\Users\vddungenpeter\source\repos\ConsoleToTortoiseTest\ConsoleToTortoiseTest\obj\Debug\ConsoleToTortoiseTest.csproj.CopyComplete
+C:\Users\vddungenpeter\source\repos\ConsoleToTortoiseTest\ConsoleToTortoiseTest\obj\Debug\ConsoleToTortoiseTest.exe
+C:\Users\vddungenpeter\source\repos\ConsoleToTortoiseTest\ConsoleToTortoiseTest\obj\Debug\ConsoleToTortoiseTest.pdb
+C:\Users\vddungenpeter\source\repos\ConsoleToTortoiseTest\ConsoleToTortoiseTest\bin\Debug\Mercurial.dll
